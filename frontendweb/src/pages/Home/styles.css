@@ -29,6 +29,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-align: center;
     margin: 10px 10px 60px 10px;
 }
 
@@ -45,6 +46,7 @@
     .home-container {
         padding: 20px;
         font-size: 40px;
+        
     }
 
     .content-home-container h1 {
@@ -53,7 +55,7 @@
     }
 
     .content-home-container p {
-        width: 506px;
+        width: 700px;
         margin-bottom: 20px;
     }
 

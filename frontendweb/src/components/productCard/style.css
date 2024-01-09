@@ -1,0 +1,22 @@
+.product-container{
+    margin-bottom: 30px;
+}
+
+.product-top-container{
+    text-align: center;
+    padding: 16px 0;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.product-top-container img{
+    width: 158px;
+    height: 158px;
+}
+
+.product-bottom-container {
+    padding: 15px 20px 30px 20px;
+}
+
+.product-bottom-container h6 {
+    font-size: 18px;
+}

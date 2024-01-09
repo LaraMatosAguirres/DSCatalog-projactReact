@@ -1,0 +1,123 @@
+.product-details-container {
+    padding: 10px;
+    font-size: 24px;
+}
+
+.product-details-card {
+    padding: 10px;
+}
+
+.goback-container {
+    display: flex;
+    align-items: center;
+}
+
+.goback-container h2 {
+    margin-left: 15px;
+    letter-spacing: -0.33px;
+    color: #263238;
+}
+
+.goback-container svg {
+    margin-left: 5px;
+    color: rgba(64, 123, 255, 1);
+    transform: rotate(-180deg);
+}
+
+.img-container {
+    border: 1px solid rgba(225, 225, 225, 1);
+    text-align: center;
+    margin: 10px;
+}
+
+.img-container img{
+    width: 80%;
+}
+
+.product-details-content h1 {
+    margin: 10px 10px 0 10px;
+    color: #263238;
+    font-size: 1em;
+    letter-spacing: -0.45px;
+}
+
+.decription-container {
+    border: 1px solid rgba(225, 225, 225, 1);
+    margin: 10px;
+    padding: 10px;
+}
+
+.decription-container h2 {
+    color: #9E9E9E;
+    margin-bottom: 20px;
+    font-weight: 700;
+    letter-spacing: -0.27px;
+    font-size: 0.7em;
+}
+
+.decription-container p {
+    color: #9E9E9E;
+    font-size: 0.6em;
+    letter-spacing: -0.24px;
+}
+
+@media (min-width: 576px) {
+    .product-details-container {
+        padding: 20px;
+    }
+
+    .product-details-card {
+        padding: 20px;
+    }
+}
+
+@media (min-width: 992px) {
+    .product-details-container {
+        padding: 40px;
+    }
+
+    .product-details-card {
+        padding: 40px;
+    }
+
+    .img-container img{
+        width: 50%;
+    }
+
+    .decription-container {
+       padding: 40px;
+    }
+
+    .product-details-content {
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+@media (min-width: 1200px) {
+    .product-details-content {
+        display: block;
+    }
+
+    .img-container img{
+        height: 280px;
+        width: auto;
+    }
+
+    .decription-container {
+        min-height: 320px;
+     }
+
+}
+
+@media (min-width: 1400px) {
+    .img-container img{
+        height: 480px;
+        width: auto;
+    }
+
+    .decription-container {
+        min-height: 520px;
+     }
+
+}

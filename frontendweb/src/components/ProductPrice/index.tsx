@@ -1,4 +1,4 @@
-import { FormarterPrice } from '../../utils/FormartterPrice3';
+import { FormarterPrice } from '../../utils/FormartterPrice';
 import './style.css';
 
 type Price ={

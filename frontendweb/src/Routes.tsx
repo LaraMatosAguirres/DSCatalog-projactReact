@@ -1,10 +1,11 @@
-import {BrowserRouter, Switch, Route} from 'react-router-dom';
+import {BrowserRouter, Switch, Route, Redirect} from 'react-router-dom';
 
 import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Catalog from './pages/Catalog';
 import Admin from './pages/Admin';
 import ProductDatails from './pages/ProductDatails';
+import Auth from './pages/Admin/Auth';
 
 const Routes = () => {
     return(
@@ -20,6 +21,11 @@ const Routes = () => {
                 <Route path="/products/:productId">
                     <ProductDatails />
                 </Route>
+                <Redirect from="/admin/auth" to="/admin/auth/login" exact />
+                <Route path="/admin/auth">
+                    <Auth />
+                </Route>
+                <Redirect from="/admin" to="/admin/products" exact />
                 <Route path="/admin">
                     <Admin />
                 </Route>

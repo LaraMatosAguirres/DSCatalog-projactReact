@@ -82,6 +82,6 @@ yarn start
 
 # Autor
 
-Kevin Rangel Moreira
+Lara Matos Aguirres
 
 https://www.linkedin.com/in/lara-matos-aguirres-3a632b244/

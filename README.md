@@ -12,19 +12,19 @@ Neste projeto também foram trabalhados tópicos como testes com Junit, integra�
 
 ## Layout web
 
-![Web 1](https://raw.githubusercontent.com/RangelMoreira/dscatalog/main/assets/home-frontend.png)
+![Web 1](https://raw.githubusercontent.com/LaraMatosAguirres/dscatalog/main/assets/home-frontend.png)
 
-![Web 2](https://raw.githubusercontent.com/RangelMoreira/dscatalog/main/assets/catalogo-frontend.png)
+![Web 2](https://raw.githubusercontent.com/LaraMatosAguirres/dscatalog/main/assets/catalogo-frontend.png)
 
-![Web 3](https://raw.githubusercontent.com/RangelMoreira/dscatalog/main/assets/produtos-frontend.png)
+![Web 3](https://raw.githubusercontent.com/LaraMatosAguirres/dscatalog/main/assets/produtos-frontend.png)
 
-![Web 4](https://raw.githubusercontent.com/RangelMoreira/dscatalog/main/assets/produtos-edicao-frontend.png)
+![Web 4](https://raw.githubusercontent.com/LaraMatosAguirres/dscatalog/main/assets/produtos-edicao-frontend.png)
 
-![Web 5](https://raw.githubusercontent.com/RangelMoreira/dscatalog/main/assets/formulario-usuarios-frontend.png)
+![Web 5](https://raw.githubusercontent.com/LaraMatosAguirres/dscatalog/main/assets/formulario-usuarios-frontend.png)
 
 ## Modelo conceitual
 
-[![Modelo Conceitual](https://raw.githubusercontent.com/RangelMoreira/dscatalog/main/assets/modelo-conceitual.png)](https://raw.githubusercontent.com/RangelMoreira/dsdeliver-sds2/main/assets/modelo-conceitual.png)
+[![Modelo Conceitual](https://raw.githubusercontent.com/LaraMatosAguirres/dscatalog/main/assets/modelo-conceitual.png)](https://raw.githubusercontent.com/LaraMatosAguirres/dsdeliver-sds2/main/assets/modelo-conceitual.png)
 
 # Tecnologias utilizadas
 

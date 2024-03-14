@@ -4,8 +4,6 @@
 
 # Sobre o projeto
 
-http://kevin-dscatalog.netlify.app/
-
 DS Catalog é uma aplicação Full Stack web e mobile construída durante o Bootcamp  **Spring React**, ministrado pela [DevSuperior](https://devsuperior.com/).
 
 O software consiste em uma aplicação de catálogo de produtos, onde há três tipos de permissões, a do usuário não autenticado, que pode apenas visualizar os produtos, a do usuário com perfil operador, que pode também adicionar categorias ou produtos e a do usuário administrador, que além das outras permissões, também pode gerenciar os outros usuários da aplicação.
@@ -47,13 +45,6 @@ Neste projeto também foram trabalhados tópicos como testes com Junit, integra�
 - React Hook Forms
 - React Select
 
-## Implantação em produção
-
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
-- Upload de imagens: Amazon S3
-
 # Como executar o projeto
 
 ## Back end
@@ -62,7 +53,7 @@ Pré-requisitos: Java 11
 
 ```
 # clonar repositório
-git clone https://github.com/RangelMoreira/dscatalog.git
+git clone https://github.com/LaraMatosAguirres/DSCatalog-projectReact.git
 
 # entrar na pasta do projeto back end
 cd backend
@@ -77,7 +68,7 @@ Pré-requisitos: npm / yarn
 
 ```
 # clonar repositório
-git clone https://github.com/RangelMoreira/dscatalog.git
+git clone https://github.com/LaraMatosAguirres/DSCatalog-projectReact.git
 
 # entrar na pasta do projeto front end web
 cd front-web
@@ -93,4 +84,4 @@ yarn start
 
 Kevin Rangel Moreira
 
-https://www.linkedin.com/in/kevin-rangel-moreira/
+https://www.linkedin.com/in/lara-matos-aguirres-3a632b244/

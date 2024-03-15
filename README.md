@@ -10,15 +10,15 @@ O software consiste em uma aplicação de catálogo de produtos, onde há três 
 
 ## Layout web
 
-![Web 1](https://raw.githubusercontent.com/LaraMatosAguirres/dscatalog/main/assets/home-frontend.png)
+![Web 1](https://raw.githubusercontent.com/LaraMatosAguirres/DSCatalog-projectReact/main/assets/home-frontend.png)
 
-![Web 2](https://raw.githubusercontent.com/LaraMatosAguirres/dscatalog/main/assets/catalogo-frontend.png)
+![Web 2](https://raw.githubusercontent.com/LaraMatosAguirres/DSCatalog-projectReact/main/assets/catalogo-frontend.png)
 
-![Web 3](https://raw.githubusercontent.com/LaraMatosAguirres/dscatalog/main/assets/produtos-frontend.png)
+![Web 3](https://raw.githubusercontent.com/LaraMatosAguirres/DSCatalog-projectReact/main/assets/produtos-frontend.png)
 
-![Web 4](https://raw.githubusercontent.com/LaraMatosAguirres/dscatalog/main/assets/produtos-edicao-frontend.png)
+![Web 4](https://raw.githubusercontent.com/LaraMatosAguirres/DSCatalog-projectReact/main/assets/produtos-edicao-frontend.png)
 
-![Web 5](https://raw.githubusercontent.com/LaraMatosAguirres/dscatalog/main/assets/formulario-usuarios-frontend.png)
+![Web 5](https://raw.githubusercontent.com/LaraMatosAguirres/DSCatalog-projectReact/main/assets/formulario-usuarios-frontend.png)
 
 ## Modelo conceitual
 

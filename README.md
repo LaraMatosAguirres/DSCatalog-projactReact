@@ -22,7 +22,7 @@ O software consiste em uma aplicação de catálogo de produtos, onde há três 
 
 ## Modelo conceitual
 
-[![Modelo Conceitual](https://raw.githubusercontent.com/LaraMatosAguirres/dscatalog/main/assets/modelo-conceitual.png)](https://raw.githubusercontent.com/LaraMatosAguirres/dsdeliver-sds2/main/assets/modelo-conceitual.png)
+[![Modelo Conceitual](https://raw.githubusercontent.com/LaraMatosAguirres/DSCatalog-projectReact/main/assets/modelo-conceitual.png)](https://raw.githubusercontent.com/LaraMatosAguirres/dsdeliver-sds2/main/assets/modelo-conceitual.png)
 
 # Tecnologias utilizadas
 
